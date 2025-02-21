@@ -76,11 +76,11 @@ export default function Home() {
               </p>
               <p className="text-gray-600 text-sm dark:text-gray-400 max-w-2xl">
                 Always eager to explore new technologies, I focus on delivery
-                seamless user experience and optimizing performance. Let&apos;s build
-                something amazing together! Beyond technical architecture, I&apos;m
+                seamless user experience and optimizing performance. Beyond technical architecture, I&apos;m
                 passionate about DevOps practices, open-source, Artificial
                 Intelligence(AI) and building resilient systems that can scale
-                effectively while maintaining high availability and performance.
+                effectively while maintaining high availability and performance. Let&apos;s build
+                something amazing together! 
               </p>
             </motion.div>
             <motion.div
