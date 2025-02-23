@@ -172,19 +172,6 @@ export default function Home() {
                 Established CI/CD pipelines and automated deployment processes, resulting in 60% faster release cycles.
               </p>
             </div>
-
-            <div className="space-y-8">
-              <div className="flex items-center justify-between">
-              <div className="space-y-1">
-                <p className="text-sm text-gray-600 dark:text-gray-400">June 2023 - July 2023</p>
-                <p className="font-medium">Tech Intern</p>
-                <p className="text-gray-600 dark:text-gray-400 text-sm">iDEX-DIO</p>
-              </div>
-              </div>
-              <p className="text-gray-600 dark:text-gray-400 text-sm">
-
-              </p>
-            </div>
           </motion.section>
           <motion.section
           initial={{ opacity: 0, y: 100 }}
