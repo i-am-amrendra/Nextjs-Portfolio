@@ -136,9 +136,9 @@ export default function Home() {
             <div className="space-y-8">
               <div className="flex items-center justify-between">
               <div className="space-y-1">
-                <p className="text-sm text-gray-600 dark:text-gray-400">June 2023 - July 2023</p>
-                <p className="font-medium">Tech Intern</p>
-                <p className="text-gray-600 dark:text-gray-400 text-sm">iDEX-DIO</p>
+                <p className="text-sm text-gray-600 dark:text-gray-400">September 2024 - January 2025</p>
+                <p className="font-medium">AI Trainer (Freelance)</p>
+                <p className="text-gray-600 dark:text-gray-400 text-sm">Outlier.ai</p>
               </div>
               </div>
               <p className="text-gray-600 dark:text-gray-400 text-sm">
@@ -149,14 +149,13 @@ export default function Home() {
             <div className="space-y-3">
               <div className="flex items-center justify-between">
               <div className="space-y-1">
-                <p className="text-sm text-gray-600 dark:text-gray-400">June 2023 - July 2023</p>
-                <p className="font-medium">Tech Intern</p>
-                <p className="text-gray-600 dark:text-gray-400 text-sm">iDEX-DIO</p>
+                <p className="text-sm text-gray-600 dark:text-gray-400">July 2024 - October 2024</p>
+                <p className="font-medium">Technical Content Intern</p>
+                <p className="text-gray-600 dark:text-gray-400 text-sm">GeeksforGeeks</p>
               </div>
               </div>
               <p className="text-gray-600 dark:text-gray-400 text-sm">
-                Led the development of cloud-native applications using AWS services, implementing serverless architecture that redced operational costs by 40%, Established CI/CD pipelines and automated
-                deployment processes, resulting in 60% faster release cycles.
+                
               </p>
             </div>
 
@@ -169,7 +168,8 @@ export default function Home() {
               </div>
               </div>
               <p className="text-gray-600 dark:text-gray-400 text-sm">
-
+                Led the development of database applications using MongoDB services, implementing architecture that reduced operational costs by 40%, 
+                Established CI/CD pipelines and automated deployment processes, resulting in 60% faster release cycles.
               </p>
             </div>
 
